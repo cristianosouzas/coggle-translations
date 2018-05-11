@@ -169,36 +169,36 @@
 <switch-yearly "Upgrade to Yearly">
 <manage-subscription "Manage Subscription">
 
-<per-month "per month">
-<per-member-per-month "per member per month">
+<per-month "por mês">
+<per-member-per-month "por membro por mês">
 
 <awesome-feature "Awesome Plan">
-<org-feature "Organisation Feature">
+<org-feature "Recurso da organização">
 
-<footer-about "about">
-<footer-contact "contact">
+<footer-about "sobre">
+<footer-contact "contato">
 <footer-facebook "facebook">
 <footer-twitter "twitter">
-<footer-privacy "privacy">
-<footer-terms "terms">
+<footer-privacy "privacidade">
+<footer-terms "termos">
 <footer-press "press">
 <footer-gdrive "<img/> Google Drive">
 
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
-<create-diagram "<span>Create Diagram</span>">
-<search-diagrams placeholder:"Search your diagrams">
-<view-gallery "Gallery">
-<create-folder "Create Folder">
-<shared-folders "Shared Folders">
-<created-by-you value:"Created By You">
-<shared-with-you value:"Shared With You">
-<folder-title placeholder:"Enter a folder name">
+<create-diagram "<span>Criar diagrama</span>">
+<search-diagrams placeholder:"Pesquisar seus diagramas">
+<view-gallery "Galeria">
+<create-folder "Criar Pasta">
+<shared-folders "Pastas partilhadas">
+<created-by-you value:"Criado por você">
+<shared-with-you value:"Compartilhado com você">
+<folder-title placeholder:"Digite com um nome de pasta">
 <folder-areyousure "are you sure? <span>I&#39;m sure</span>">
 <logout "Logout">
-<settings "Settings">
-<return-to-diagrams "Return to your diagrams">
+<settings "Configurações">
+<return-to-diagrams "Volte para seus diagramas">
 <upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
 <awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
 <awesome-trial-after "Then you'll be moved onto the free plan">
@@ -464,14 +464,14 @@
 <free-awesome "Want Awesome for free?">
 
 <me-support-awesomethanks """
-  <p><b>Thanks for supporting Coggle!</b></p>
-  <p>For being an early Coggle supporter, you get all the benefits of the <a>Coggle Awesome</a> plan included in your subscription!</p>
-  <a>Manage your plan</a>
+  <p><b>Obrigado por apoiar o Coggle!</b></p>
+  <p>Por ser um dos primeiros patrocinadores da Coggle, você obtém todos os benefícios do plano <a>Coggle Awesome</a> incluído na sua assinatura!</p>
+  <a>Gerenciar seu plano</a>
 """>
 
 <me-awesomethanks """
   <p>This is you &mdash;<b>You\'re Awesome!</b></p>
-  <a>Manage your plan</a>
+  <a>Gerenciar seu plano</a>
 """>
 
 
